@@ -1,0 +1,32 @@
+[
+    {
+        "nama" : "Bella",
+        "umur" : 19,
+        "nrp" : "173040019",
+        "hobby" : [
+            "nonton konser",
+            "analisis"
+        ],
+        
+        "pembimbing": {
+            "pembimbing1": "Jaehyun",
+            "Pembimbing2": "Doyoung"
+        }
+    },
+    {
+        "nama" : "Bella",
+        "umur" : 19,
+        "nrp" : "173040019",
+        "hobby" : [
+            "nonton konser",
+            "analisis"
+        ],
+        
+        "pembimbing": {
+            "pembimbing1": "Jaehyun",
+            "Pembimbing2": "Doyoung" 
+        }
+    }
+]
+    
+
